@@ -1,4 +1,4 @@
-# Accessibility Reviewer
+# reviewing-accessibility
 
 Accessibility audit skill for web UIs, focused on WCAG 2.1 AA with actionable code fixes.
 
@@ -22,7 +22,7 @@ npx skills add https://github.com/YKehinde/accessibility-reviewer
 ```bash
 git clone https://github.com/YKehinde/accessibility-reviewer.git
 ```
-2. Copy the folder to your skills directory (for example, `$CODEX_HOME/skills/accessibility-reviewer`).
+2. Copy the folder to your skills directory (for example, `$CODEX_HOME/skills/reviewing-accessibility`).
 3. Restart your agent session so it reloads available skills.
 
 ## How It Works

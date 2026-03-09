@@ -1,4 +1,4 @@
 interface:
   display_name: "Accessibility Reviewer"
   short_description: "Audit web UI accessibility with WCAG-based fixes"
-  default_prompt: "Use $accessibility-reviewer to audit this UI for WCAG 2.1 AA issues and propose prioritized code fixes."
+  default_prompt: "Use $reviewing-accessibility to audit this UI for WCAG 2.1 AA issues and propose prioritized code fixes."

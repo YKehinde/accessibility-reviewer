@@ -1,7 +1,7 @@
 Use this template as the user prompt in any LLM tool:
 
 ---
-Run an accessibility audit using the `accessibility-reviewer` process.
+Run an accessibility audit using the `reviewing-accessibility` process.
 
 Target:
 - Type: [full app | page | component | snippet | URL]
