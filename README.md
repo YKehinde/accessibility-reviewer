@@ -1,4 +1,4 @@
-# reviewing-accessibility
+# Reviewing Accessibility
 
 Accessibility audit skill for web UIs, focused on WCAG 2.1 AA with actionable code fixes.
 
